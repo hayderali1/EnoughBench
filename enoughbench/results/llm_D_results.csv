@@ -1,0 +1,2 @@
+agent,accuracy,avg_cost,ece,sufficiency_regret,faithfulness
+uncertainty-gated,0.66,14.4468,0.1424,0.0,0.9167

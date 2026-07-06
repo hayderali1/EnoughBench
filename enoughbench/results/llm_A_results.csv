@@ -1,3 +1,0 @@
-agent,accuracy,avg_cost,ece,sufficiency_regret,faithfulness
-ReAct (LLM),0.2267,6.3933,0.5717,6.3933,
-uncertainty-gated,0.7867,8.4267,0.0759,0.0,0.6462

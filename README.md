@@ -253,7 +253,7 @@ tests/                         # 19 tests incl. mocked LLM loop on all tracks
 ```bibtex
 @misc{enoughbench2026,
   title  = {EnoughBench: A Benchmark for Evaluating When LLM Agents Should Stop Gathering Evidence},
-  author = {Hayder Almamori},
+  author = {Hayder Almamoori},
   year   = {2026},
   note   = {Code repository accompanying the paper. Submitted to IDAP 2026.},
   howpublished = {\url{https://github.com/hayderali1/EnoughBench}}
